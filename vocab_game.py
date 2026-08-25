@@ -167,4 +167,4 @@ if st.session_state.get("is_ended", False):
 
 st.divider()
 
-st.write("นางปุณณ์ณวุฒิ นิลทพันธ์ เลขที่ 5 ม.4/10")
+st.write("นายปุณณ์ณวุฒิ นิลทพันธ์ เลขที่ 5 ม.4/10")
