@@ -1,11 +1,11 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="คำนวณเงินทอน",
+    page_title="ทายซิทอนเท่าไหร่",
     page_icon="💰"
 )
 
-st.header("💰 คำนวณเงินทอน")
+st.header("💰 ทายซิทอนเท่าไหร่")
 
 price = st.number_input(
     "ราคาสินค้า",
