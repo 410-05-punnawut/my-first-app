@@ -305,10 +305,7 @@ class _ChangeCalculatorPageState
             const SizedBox(height: 10),
 
             const Text(
-              'นายปุณณ์ณวุฒิ นิลทพันธ์ เลขที่ 5 ม.4/10 
- ภูดิส ศรีเดชะกุล เลขที่ 3 ม.4/10
-ชยพล เผ่าศรีศรจิตต์ เลขที่ 19 ม.4/10
-กตัญญู โนจ๊ะ เลขที่ 26 ม.4/10',
+              '',
               textAlign: TextAlign.center,
               style: TextStyle(
                 color: Colors.grey,
